@@ -1,0 +1,11 @@
+GEMINI_MODEL = "gemini-3.6-flash"
+
+EMBEDDING_MODEL = "BAAI/bge-base-en-v1.5"
+
+QDRANT_COLLECTION = "nietzsche"
+
+TOP_K = 5
+
+MAX_HISTORY = 20
+
+MAX_CONTEXT_CHUNKS = 5

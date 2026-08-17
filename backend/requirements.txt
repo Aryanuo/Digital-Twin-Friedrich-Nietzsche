@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+
+google-genai
+
+firebase-admin
+
+SQLAlchemy
+psycopg
+
+qdrant-client
+sentence-transformers
+
+tqdm
