@@ -8,9 +8,10 @@ google-genai
 firebase-admin
 
 SQLAlchemy
-psycopg
+psycopg[binary]
 
 qdrant-client
 sentence-transformers
+torch
 
 tqdm
